@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">609410498409</string>
+    <string name="google_api_key" translatable="false">AIzaSyDJIcVd5DOMiGr2pyjKROcVJYAuGe0ar7o</string>
+    <string name="google_app_id" translatable="false">1:609410498409:android:e35f29e9051a86730987f8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJIcVd5DOMiGr2pyjKROcVJYAuGe0ar7o</string>
+    <string name="google_storage_bucket" translatable="false">kreeda-ankana-9e336.firebasestorage.app</string>
+    <string name="project_id" translatable="false">kreeda-ankana-9e336</string>
+</resources>
