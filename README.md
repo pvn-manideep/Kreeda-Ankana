@@ -130,6 +130,3 @@ The email set in `ADMIN_EMAIL` gets admin privileges:
 
 ---
 
-## 📄 License
-
-This project was developed as part of an internship at **MindMatrix Learning Solutions Private Limited**, Bengaluru.
